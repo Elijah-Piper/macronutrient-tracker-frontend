@@ -46,7 +46,7 @@ class MealComponent extends React.Component {
                                     <td> { meal.mealId }</td>
                                     <td> { meal.name }</td>
                                     <td> { meal.calories }</td>
-                                    <td> { meal.protein }</td>
+                                    <td> { meal.protein }g</td>
                                     <td> { meal.carbohydrates }g</td>
                                     <td> { meal.fat }g</td>
                                 </tr>
